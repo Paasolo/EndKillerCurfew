@@ -1,5 +1,6 @@
 export const crimeKeywords = [
     "Freedom and autonomy",
-    "Unlawful Arrests",
+    "Ban on Unlawful Arrests",
     "Good Roads",
+    "An end to the current Curfew",
 ]
